@@ -1,4 +1,3 @@
-```markdown
 # Dynamic Data Extractor
 
 ## Project Overview
