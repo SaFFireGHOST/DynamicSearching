@@ -119,8 +119,3 @@ The **Dynamic Data Extractor** is a **Streamlit-based web application** designed
 1. **Additional File Formats**: Support for Excel and JSON files.
 2. **Enhanced Query Processing**: Integration with advanced NLP models for more robust custom queries.
 3. **Multi-Language Support**: Enable data extraction in non-English languages.
-
----
-
-Feel free to contribute to this project by submitting issues or pull requests. We appreciate your feedback and suggestions!
-```
